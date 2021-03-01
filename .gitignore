@@ -38,3 +38,6 @@ cypress/fixtures/example.json
 
 .eslintcache
 /.github/
+
+# Deploy script
+deploy.sh

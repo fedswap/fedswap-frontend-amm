@@ -27,9 +27,9 @@ const config: MenuEntry[] = [
     href: 'https://fedswap.finance/farms'
   },
   {
-    label: 'Nests',
+    label: 'Banks',
     icon: 'PoolIcon',
-    href: 'https://fedswap.finance/nests'
+    href: 'https://fedswap.finance/banks'
   },
   // {
   //   label: 'Lottery',

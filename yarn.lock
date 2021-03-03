@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@fedswap/fedswap-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/fedswap/fedswap-uikit/tar.gz/c1702c1bb0ec1c342437a2d08ff0a50cacdb8534"
+  resolved "https://codeload.github.com/fedswap/fedswap-uikit/tar.gz/b9972a440b713691d2d53af210615f71d9f3ac9c"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

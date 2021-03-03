@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "Fed Finance Token",
+      "symbol": "FED",
+      "address": "0xA63d087Faad155D83A83a52c4eC640386dB4fEDb",
       "chainId": 56,
       "decimals": 18
     },
